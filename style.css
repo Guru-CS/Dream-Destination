@@ -1,0 +1,45 @@
+
+    body {
+        background-color: rgb(13, 138, 9);
+        align-content: center;
+      }
+      img {
+        
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+      }
+      h1 {
+        color: rgb(29, 178, 236);
+        text-align: center;
+        font-size: 50px;
+       
+      }
+      
+      a{
+        
+        text-align: center;
+       
+        font-size: large;
+        text-decoration: none;
+        color: rgb(255, 145, 0);
+      }
+     a:hover {
+        color:rgb(240, 6, 208);
+        text-decoration:underline;
+     }
+      
+      p {
+        
+        padding: 70px 0;
+       border: 3px solid rgb(9, 200, 248);
+       color: rgb(29, 178, 236);
+        text-align: center;
+        align-self: center;
+        align-self: center;
+        font-family: verdana;
+        font-size: 20px;
+      }
+    
+      
